@@ -1,0 +1,2 @@
+# Intelligent-Decision-Support-System-IDSS-for-Diabetes-Patient-Discharge
+Intelligent Decision Support System (IDSS) designed to assist healthcare professionals in evaluating whether diabetic patients meet the criteria for hospital discharge. The project combines medical data analysis, machine learning techniques, and clinical decision-making support to improve patient care and discharge planning.
